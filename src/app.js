@@ -132,13 +132,13 @@ const Portfolio = () => {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-12 dark:text-white">{t.getInTouch}</h2>
           <div className="flex justify-center gap-8">
-            <a href="mailto:your.email@example.com" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
+            <a href="mailto:parsaazari28@proton.me" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
               <Mail className="w-8 h-8" />
             </a>
-            <a href="https://github.com/yourusername" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
+            <a href="https://github.com/parsaa74" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
               <Github className="w-8 h-8" />
             </a>
-            <a href="https://linkedin.com/in/yourusername" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
+            <a href="https://linkedin.com/in/parsaazari" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
               <Linkedin className="w-8 h-8" />
             </a>
           </div>
