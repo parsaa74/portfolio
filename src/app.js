@@ -136,10 +136,10 @@ const Portfolio = () => {
               <Mail className="w-8 h-8" />
             </a>
             <a href="https://github.com/parsaa74" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
-              <Github className="w-8 h-8" />
+              <github className="w-8 h-8" />
             </a>
             <a href="https://linkedin.com/in/parsaazari" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
-              <Linkedin className="w-8 h-8" />
+              <linkedin className="w-8 h-8" />
             </a>
           </div>
         </div>
